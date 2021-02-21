@@ -1,2 +1,4 @@
-package com.company;public class cuenta {
+package com.company;
+
+public class cuenta {
 }
