@@ -37,5 +37,7 @@ public class Main {
 
                  }
              }
-			       }
+System.out.println("""
+  1. Go To Calculator
+  2. Exit """);
 			       }
